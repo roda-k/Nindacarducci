@@ -6,7 +6,7 @@
 @font-face {
   font-family: 'Spectral';
   font-style: italic;
-  src:    url('/fonts/Spectral-italic.ttf') format('truetype')
+  src:    url('./fonts/Spectral-Italic.ttf') format('truetype')
 }
 
 @font-face {
