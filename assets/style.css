@@ -1,24 +1,28 @@
 @font-face {
   font-family: 'Inter';
   src: url('./fonts/Inter-Regular.ttf') format('truetype');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Spectral';
   font-style: italic;
-  src:    url('./fonts/Spectral-Italic.ttf') format('truetype')
+  src:    url('./fonts/Spectral-Italic.ttf') format('truetype');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Spectral';
   font-weight: 400;
   src: url('./fonts/Spectral-Regular.ttf') format('truetype');
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'Spectral';
   font-weight: 300;
   src: url('./fonts/Spectral-Light.ttf') format('truetype');
+  font-display: swap;
 }
 
 @font-face {
@@ -26,6 +30,7 @@
   font-weight: 300;
   font-style: italic;
   src: url('./fonts/Spectral-LightItalic.ttf') format('truetype');
+  font-display: swap;
 }
 
 
