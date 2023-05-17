@@ -68,8 +68,8 @@ body {
 }
 
 .picture img {
+  aspect-ratio: 16/9;
 	width: 100%;
-
 }
 #about-me {
 	flex: 2
